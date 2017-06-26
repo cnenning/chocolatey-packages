@@ -1,6 +1,6 @@
 ﻿$packageName = 'gradle'
 $version = $env:chocolateyPackageVersion
-$checksum = 'DB1DB193D479CC1202BE843F17E4526660CFB0B21B57D62F3A87F88C878AF9B2'
+$checksum = '56BD2DDE29BA2A93903C557DA1745CAFD72CDD8B6B0B83C05A40ED7896B79DFE'
 $url = "https://services.gradle.org/distributions/gradle-$version-bin.zip"
 $installDir = Split-Path -parent $MyInvocation.MyCommand.Definition
 
